@@ -1,0 +1,5 @@
+virtualenv==20.16.6
+streamlit==1.13.0
+matplotlib==3.6.2
+scikit-learn==1.1.2
+bs4==0.0.1
