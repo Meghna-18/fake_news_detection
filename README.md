@@ -5,6 +5,8 @@
 This project is a **Fake News Detector** that leverages machine learning algorithms and natural language processing techniques to classify news articles as "Real" or "Fake".
 The application offers robust functionality with six different machine learning models and supports two vectorization techniques for text preprocessing.
 
+Files (code-2 contains python code and app1.py has streamlit)
+
 🚀 Features
 
 - Machine Learning Models:
